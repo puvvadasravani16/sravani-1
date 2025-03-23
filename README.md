@@ -1,3 +1,5 @@
-# sravani-1
-this is my first repository
+
 public class sravani-1{
+public static void main(String[]args){
+system.out.println("hello world");
+}}
